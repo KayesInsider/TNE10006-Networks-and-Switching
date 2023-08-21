@@ -1,0 +1,10 @@
+
+  1. Hostname 
+  2. MOTD
+  3. Router-on-a-Stick
+  4. Loopback
+  5. Root Bridge STP
+  6. Port Security
+  7. Disable all Unused ports(including gigabits ports)
+
+Note : Ip calculations will be 1st usable, 2nd usable , 3rd usable
